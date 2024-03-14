@@ -1,0 +1,51 @@
+html body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  span {
+    display: block;
+  }
+
+  .canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+    
+  }
+  
+  .button {
+    width: 135px;
+    height: 135px;
+    border: solid black 2px;
+    display: inline-block;
+    border-radius: 25px;
+  }
+  
+  #red {
+    background: red;
+  }
+  
+  #orange {
+    background: orange;
+  }
+  #yellow {
+    background: yellow;
+  }
+  #green {
+    background: green;
+  }
+  #cyan {
+    background: cyan;
+  }
+  #blue {
+    background: blue;
+  }
+  #magenta {
+    background: magenta;
+  }
+  #purple {
+    background: purple;
+  }
+  
